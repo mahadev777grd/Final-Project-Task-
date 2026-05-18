@@ -22,3 +22,11 @@ This is my first Spring Boot project created for Akademia Finansów i Biznesu Vi
 - Thymeleaf
 - Maven
 - Lombok
+
+## Screenshots
+### Home Page - localhost:8080
+<img width="1915" height="750" alt="Screenshot 2026-05-18 023659" src="https://github.com/user-attachments/assets/181553f4-4cc4-4c8a-80bd-efa601837428" />
+
+
+### Greeting Page - localhost:8080/greeting?name=Vistula
+<img width="1702" height="822" alt="Screenshot 2026-05-18 023710" src="https://github.com/user-attachments/assets/1eb1d2d0-606e-42fe-a91d-db28807c1556" />
